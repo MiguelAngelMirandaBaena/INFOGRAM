@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LaVenganza 2. 0</string>
+    <string name="nombre_de_usuario">Hatalliqpa sutin</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="button_text">LOGIN</string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta?,</string>
+    <string name="crea_una_aqu">Crea una aquí</string>
+    <string name="correo">Correo</string>
+    <string name="Nombre">Nombre</string>
+    <string name="usuario">Usuario</string>
+    <string name="confirme_contrasena">Confirme contraseña</string>
+    <string name="button_text_create_account">ÚNETE</string>
+    <string name="title_crear_cuenta">Crear cuenta</string>
+    <string name="carlos_vargas_cardview">Carlos Vargas</string>
+    <string name="hace_cardview">Hace</string>
+    <string name="dias_cardview">" 4 dias "</string>
+    <string name="me_gusta_cardview">10 me gusta</string>
+    <string name="buscar_item">Buscar</string>
+    <string name="home_item">Home</string>
+    <string name="yo_item">Yo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home_fragment">Home</string>
+    <string name="text_megusta_image_detail">me gusta</string>
+    <string name="text_cantidad_megusta_image_detail">10</string>
+    <string name="text_title_image_detail">"Todo copas en la playa"</string>
+    <string name="text_content_image_detail">여기 붙어라 모두 모여라 WE GON\' PARTY LIKE 리리리라라라 맘을 열어라 머릴 비워라 불을 지펴라 리리리라라라. 정답은 묻지 말고 그대로 받아들여 느낌대로 가 ALRIGHT 하늘을 마주하고 두 손을 다 위로 저 위로 날뛰고 싶어 OH</string>
+    <string name="transitionName_imageCardView">transitionName_imageCardView</string>
+</resources>
